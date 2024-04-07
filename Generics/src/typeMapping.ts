@@ -32,9 +32,3 @@ let newProduct: ReadonlyType<Product> = {
     name: 'a',
     price: 1
 };
-
-
-
-
-
-
